@@ -1,0 +1,7 @@
+#Sun Nov 20 13:34:34 IST 2016
+base.0=C\:\\Users\\Sugirjan\\OneDrive\\Pictures\\New folder (4)\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7490beabd6104edf96d28a97fffd4c5f894fc6ce
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Sugirjan\\OneDrive\\Pictures\\New folder (4)\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5f88e4c96c96bf8e0b413e280ad79c593499775f\\classes.dex
+base.1=C\:\\Users\\Sugirjan\\OneDrive\\Pictures\\New folder (4)\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5f88e4c96c96bf8e0b413e280ad79c593499775f
+file.0=C\:\\Users\\Sugirjan\\OneDrive\\Pictures\\New folder (4)\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7490beabd6104edf96d28a97fffd4c5f894fc6ce\\classes.dex

@@ -21,4 +21,7 @@ package lk.ac.mrt.cse.dbs.simpleexpensemanager;
  */
 public class Constants {
     public static final String EXPENSE_MANAGER = "expense-manager";
+    public static final String EXPENSE = "expense";
+    public static final String INCOME = "income";
+    public static final String DATEFORMAT ="dd-MM-yyyy";
 }
